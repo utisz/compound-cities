@@ -45,9 +45,9 @@ This repository aims to collect boundary polygons for such cities.
 
 Currently it contains administrative data for:
 
-	- New York City
-	- London
-	- Tokyo
+- New York City
+- London
+- Tokyo
 
 
 ## New York City Boundaries 
