@@ -4,7 +4,40 @@ A 'compound city' isn't a normative term, but its a fitting description for larg
 
 - Greater London
 	- Inner London
+			- Camden
+      - Greenwich
+      - Hackney
+      - Hammersmith and Fulham
+      - Islington
+      - Kensington and Chelsea
+      - Lambeth
+      - Lewisham
+      - Southwark
+      - Tower Hamlets
+      - Wandsworth
+      - Westminster
+      - City of London
 	- Outer London
+      - Barking and Dagenham
+      - Barnet
+      - Bexley
+      - Brent
+      - Bromley
+      - Croydon
+      - Ealing
+      - Enfield
+      - Haringey
+      - Harrow
+      - Havering
+      - Hillingdon
+      - Hounslow
+      - Kingston upon Thames
+      - Merton
+      - Newham
+      - Redbridge
+      - Richmond upon Thames
+      - Sutton
+      - Waltham Forest
 
 ## New York City Boundaries 
 
