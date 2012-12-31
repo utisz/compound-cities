@@ -1,6 +1,6 @@
 # Compound Cities
 
-A 'compound city' isn't a normative term, but its a fitting description for large cities such as London and New York that have several well-defined, and sometimes semi-autonomous administrative sub-divisions.  Such data are often hard to find, and rarely are they ever organized to highlight the logical hierarchy of such divisions.  
+While **compound city** isn't a normative term, it is a fitting description for large cities with multipe well-defined and sometimes semi-autonomous administrative sub-divisions.  It is often hard to find data on the boundaries of these sub-divisions, and rarely are such data ever organized to highlight the logical hierarchy of such divisions.  
 
 For example 
 
@@ -41,9 +41,7 @@ For example
 		- Sutton
 		- Waltham Forest
 
-This repository aims to collect boundary polygons for such cities.
-
-Currently it contains administrative data for:
+This repository aims to collect boundary polygons for such compound cities.  Currently it contains administrative data for:
 
 - New York City
 - London
