@@ -1,6 +1,6 @@
 # Compound Cities
 
-While *compound city* isn't a normative term, it is a fitting description for large cities with multipe well-defined and sometimes semi-autonomous administrative sub-divisions.  It is often hard to find machine-readable data on the boundaries of these sub-divisions, and rarely are such data ever organized to highlight the logical hierarchy of such divisions.  
+While *compound city* isn't a normative term, it is a fitting description for large cities with multipe well-defined and sometimes semi-autonomous administrative sub-divisions.  It is often hard to find machine-readable data on the boundaries of these sub-divisions, and rarely are such data ever organized to highlight the logical hierarchy of the areas.  
 
 For example 
 
@@ -49,16 +49,15 @@ This repository aims to collect boundary polygons for such compound cities.  Cur
 
 # Data Sources an License
 
-## New York City Boundaries 
+### New York City Boundaries 
 
 http://www.nyc.gov/html/dcp/html/bytes/meta_dis_nyborough.shtml
 
-## Greater London 
+### Greater London 
 
 http://www.ordnancesurvey.co.uk/oswebsite/products/boundary-line/index.html
 
 http://www.ordnancesurvey.co.uk/oswebsite/docs/licences/os-opendata-licence.pdf
 
-
-## Tokyo
+### Tokyo
 
