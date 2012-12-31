@@ -1,6 +1,6 @@
 # Compound Cities
 
-While *compound city* isn't a normative term, it is a fitting description for large cities with multipe well-defined and sometimes semi-autonomous administrative sub-divisions.  It is often hard to find machine-readable data on the boundaries of these sub-divisions, and rarely are such data ever organized to highlight the logical hierarchy of the areas.  
+While *compound city* isn't a normative term, it is a fitting description for large cities with multipe well-defined and sometimes semi-autonomous administrative sub-divisions.  For example New York is composed of 5 *Boroughs*, and Tokyo is a vast conglomerate of 23 *Special Wards*.  It is often hard to find machine-readable data on the boundaries of these sub-divisions, and rarely are such data ever organized to highlight the logical hierarchy of the areas.  
 
 For example 
 
