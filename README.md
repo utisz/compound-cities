@@ -6,40 +6,40 @@ For example
 
 - Greater London
 	- Inner London
-			- Camden
-      - Greenwich
-      - Hackney
-      - Hammersmith and Fulham
-      - Islington
-      - Kensington and Chelsea
-      - Lambeth
-      - Lewisham
-      - Southwark
-      - Tower Hamlets
-      - Wandsworth
-      - Westminster
-      - City of London
+		- Camden
+    - Greenwich
+    - Hackney
+    - Hammersmith and Fulham
+    - Islington
+    - Kensington and Chelsea
+    - Lambeth
+    - Lewisham
+    - Southwark
+    - Tower Hamlets
+    - Wandsworth
+    - Westminster
+    - City of London
 	- Outer London
-      - Barking and Dagenham
-      - Barnet
-      - Bexley
-      - Brent
-      - Bromley
-      - Croydon
-      - Ealing
-      - Enfield
-      - Haringey
-      - Harrow
-      - Havering
-      - Hillingdon
-      - Hounslow
-      - Kingston upon Thames
-      - Merton
-      - Newham
-      - Redbridge
-      - Richmond upon Thames
-      - Sutton
-      - Waltham Forest
+    - Barking and Dagenham
+    - Barnet
+    - Bexley
+    - Brent
+    - Bromley
+    - Croydon
+    - Ealing
+    - Enfield
+    - Haringey
+    - Harrow
+    - Havering
+    - Hillingdon
+    - Hounslow
+    - Kingston upon Thames
+    - Merton
+    - Newham
+    - Redbridge
+    - Richmond upon Thames
+    - Sutton
+    - Waltham Forest
 
 This repository aims to collect boundary polygons for such cities.
 
