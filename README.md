@@ -6,7 +6,7 @@ While *compound city* isn't a proper geographic term, it is a fitting descriptio
 - London
 - Tokyo
 
-FeatureCollections of the compound city subdivisions have been split into multiple files (one per the features of each subdivision).  So for example for Greater London, there is a three level heirarchy with boundary files avaialbe for entities at each level of the heirarchy.
+FeatureCollections of the compound city subdivisions have been split into multiple files (one geoJSON per the features of each subdivision).  For example, Greater London has a three level heirarchy with boundary files avaialbe for entities at each level.
 
 - Greater London
 	- Inner London
