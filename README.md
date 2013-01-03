@@ -61,21 +61,9 @@ http://www.ordnancesurvey.co.uk/oswebsite/docs/licences/os-opendata-licence.pdf
 
 ### Tokyo
 
-http://downloads.cloudmade.com/asia/eastern_asia/japan/tokyo
-
-----
-
 http://www.esrij.com/products/data/japan-shp/
 
  "Ministry of Internal Affairs and Communications, 2010 Census data (population aggregate results bulletin)", for, ESRI Japan performs processing and editing, "the Ministry of Land, Infrastructure and Transport data (surface) administrative district"
 
 
-JCODE	City Code	JIS five-digit code
-KEN	State Name	
-SICHO	Station name name and Promotion Branch Office	
-GUN	County Name (only the towns and villages)	
-SEIREI	City name designated cities	
-SIKUCHOSON	City name	The case of district names are designated cities
-CITY_ENG	City name (English)	
-P_NUM	Population	By breaking aggregate population census 2010
-H_NUM	Number of households	By breaking aggregate population census 2010
+
